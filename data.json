@@ -1,0 +1,65 @@
+[
+   {
+      "id":1,
+      "title": "R-One-Five",
+      "brand":"Yamaha",
+      "image":"https://unsplash.com/photos/fVXo0wV0P38",
+      "details": "Yamaha YZF R15 V3 is powered by 155 cc engine.This R15 V3 engine generates a power of 18.4 PS @ 10000 rpm and a torque of 14.2 Nm @ 7500 rpm."
+   },
+   {
+      "id":2,
+      "title": "Fazer-Bike",
+      "brand":"Yamaha",
+      "image":"https://images.financialexpress.com/2017/05/Fazerfi-large.jpg",
+      "details": "YAMAHA FAZER FI V2.0 is a bike in the FZ series of YAMAHA’s stable. If you are a biker from Bangladesh."
+   },
+   {
+      "id":3,
+      "title": "Scenic motorcycle",
+      "image":"https://unsplash.com/photos/A9tP39BIn28",
+      "details": "MotorcycleRoads.com is the place to find the best motorcycle roads, routes, rides, and trips. "
+   },
+   {
+      "id":4,
+      "title": "Royal enfield",
+      "image":"https://i.ytimg.com/vi/byXUiXxADQc/maxresdefault.jpg",
+      "details": "Royal Enfield is an Indian multinational motorcycle manufacturing company headquartered in Chennai, Tamil Nadu,India"
+   },
+   {
+      "id":5,
+      "title": "Yamaha R1",
+      "image":"https://unsplash.com/photos/F17sBFUq3Fo",
+      "details": "Yamaha launched the YZF-R1 after redesigning the Genesis engine to create a more compact engine by raising the gearbox input shaft and allowing the gearbox ."
+   },
+   {
+      "id":6,
+      "title": "Royal Enfield Classic 350",
+      "image":"https://english.cdn.zeenews.com/sites/default/files/2021/08/20/962634-2021royalenfieldclassic350.jpg",
+      "details": "Royal Enfield Classic 350 2021 is priced at Rs 2.07 Lakh in Delhi. The on road price of the Royal Enfield Classic 350 2021 will include, ex-xhowroom price"
+   },
+   {
+      "id":7,
+      "title": "Pulser",
+      "image":"https://unsplash.com/photos/WUa4ojEQwWg",
+      "details": "It was just a awesome ride in under 100000 price tag with very good handling., pickup, design and etc."
+   },
+   {
+      "id":8,
+      "title": "KTM",
+      "image":"https://unsplash.com/photos/exz3abIGjrA",
+      "details": "KTM stands for Kraftfahrzeuge Trunkenpolz Mattighofen an Austrian motorcycle, and sports car company."
+   },
+   {
+      "id":9,
+      "title": "Harley-Davidson",
+      "image":"https://unsplash.com/photos/2S4FDh3AtGw",
+      "details": "Harley Davidson redirects here. For the Iowa school district, see Hampton–Dumont Community School District. For the speed skater, see Harley Davidson"
+   },
+   {
+      "id":10,
+      "title": "Nathan Dumlao",
+      "image":"https://unsplash.com/photos/kSNQz1lTBPQ",
+      "details": "Brand Consultant and Content Creator living in Los Angeles. Working with brands and companies looking to tell engaging stories with beautiful images and video."
+   }
+
+]
